@@ -4,11 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba3bece3-8a4c-41df-8741-e600f528c520" name="Changes" comment="" />
+    <list default="true" id="ba3bece3-8a4c-41df-8741-e600f528c520" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cases/test_all_non_empty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cases/test_any_non_empty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cases/test_are_nothing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cases/test_capitalize_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cases/test_first_non_empty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cases/test_is_nothing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cases/test_lower_first_char.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cases/test_recase_first_char.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cases/test_recase_first_char_of_map_keys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cases/test_strtobool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cases/test_upper_first_char.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/compression/test_deduplicate_nested_object.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/compression/test_filter_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/compression/test_filter_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/compression/test_filter_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/compression/test_flatten_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/compression/test_flatten_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/compression/test_truncate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/defaults/test_LoggingHandlerDefaults.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/errors/test_JSONDecodeError___init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/exports/test_all_elements_as_strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/exports/test_cleanup_yaml_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/exports/test_determine_scalarstring_type.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/exports/test_export_multiline_yaml_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/exports/test_get_caller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/exports/test_to_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/exports/test_validate_yaml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/extracts/test_all_values_from_nested_object.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/filesystem/test_file_path_depth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/filesystem/test_file_path_rel_to_root.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/inputs/test_Inputs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/inputs/test_decode_base64.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/logs/test_Logs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/logs/test_Logs_get_unique_signature.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/logs/test_get_loggers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/matchers/test_is_non_empty_match.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/matchers/test_is_prefix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/matchers/test_is_reverse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/matchers/test_is_url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/results/test_Results.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/terminal/test_get_process_output.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/transforms/test_invert_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/transforms/test_sanitize_key.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/transforms/test_unhump_nested_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/transforms/test_zip_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/types/test_create_nested_default_dict.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="true" />
@@ -16,9 +68,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2eBqHGovqYF56tVHrJxOCMDsFk6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,14 +83,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "last_opened_file_path": "/Users/jbogaty/go/src/gitops-utils/gitops_utils",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.14941406",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -47,7 +106,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/gitops_utils" />
+      <recent name="$PROJECT_DIR$/tests/defaults" />
+      <recent name="$PROJECT_DIR$/tests/transforms" />
+      <recent name="$PROJECT_DIR$/tests/compression" />
+      <recent name="$PROJECT_DIR$/tests/terminal" />
+      <recent name="$PROJECT_DIR$/tests/exports" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
